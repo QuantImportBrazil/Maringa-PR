@@ -25,10 +25,25 @@ Previsão Influenciada:
 - Mês previsto: 05
 
 Fator Influenciador:
-quant_expl    MOP_lag6
-mês_expl            05
-importance    0.197295
-Name: 25, dtype: object
+   quant_expl mês_expl sh2_expl sh4_expl ncm_expl uf_expl regin_expl mun_expl  \
+25   MOP_lag6       05     None     None     None    None       None     None   
+25   MOP_lag6       05     None     None     None    None       None     None   
+25   MOP_lag6       05     None     None     None    None       None     None   
+25   MOP_lag6       05     None     None     None    None       None     None   
+25   MOP_lag6       05     None     None     None    None       None     None   
+25   MOP_lag6       05     None     None     None    None       None     None   
+25   MOP_lag6       05     None     None     None    None       None     None   
+25   MOP_lag6       05     None     None     None    None       None     None   
+
+    importance mês_target mun_target ncm_target anos_expl  marca  
+25    0.197295         05    4115200   31021010         8  igual  
+25    0.197295         05    4115200   31021010         8  igual  
+25    0.197295         05    4115200   31021010         8  igual  
+25    0.197295         05    4115200   31021010         8  igual  
+25    0.197295         05    4115200   31021010         8  igual  
+25    0.197295         05    4115200   31021010         8  igual  
+25    0.197295         05    4115200   31021010         8  igual  
+25    0.197295         05    4115200   31021010         8  igual  
 
 
 
@@ -46,10 +61,25 @@ Previsão Influenciada:
 - Mês previsto: 03
 
 Fator Influenciador:
-quant_expl    DAP_lag5
-mês_expl            03
-importance    0.158282
-Name: 8, dtype: object
+  quant_expl mês_expl sh2_expl sh4_expl ncm_expl uf_expl regin_expl mun_expl  \
+8   DAP_lag5       03     None     None     None    None       None     None   
+8   DAP_lag5       03     None     None     None    None       None     None   
+8   DAP_lag5       03     None     None     None    None       None     None   
+8   DAP_lag5       03     None     None     None    None       None     None   
+8   DAP_lag5       03     None     None     None    None       None     None   
+8   DAP_lag5       03     None     None     None    None       None     None   
+8   DAP_lag5       03     None     None     None    None       None     None   
+8   DAP_lag5       03     None     None     None    None       None     None   
+
+   importance mês_target mun_target ncm_target anos_expl  marca  
+8    0.158282         03    4115200   31042090         8  igual  
+8    0.158282         03    4115200   31042090         8  igual  
+8    0.158282         03    4115200   31042090         8  igual  
+8    0.158282         03    4115200   31042090         8  igual  
+8    0.158282         03    4115200   31042090         8  igual  
+8    0.158282         03    4115200   31042090         8  igual  
+8    0.158282         03    4115200   31042090         8  igual  
+8    0.158282         03    4115200   31042090         8  igual  
 
 
 
@@ -67,16 +97,11 @@ Previsão Influenciada:
 - Mês previsto: 06
 
 Fator Influenciador:
-quant_expl     kt_lag1
-mês_expl            01
-sh2_expl            10
-sh4_expl          1000
-ncm_expl      10000000
-uf_expl             MG
-regin_expl        3101
-mun_expl       3106200
-importance    0.000679
-Name: 55, dtype: object
+   quant_expl mês_expl sh2_expl sh4_expl  ncm_expl uf_expl regin_expl  \
+55    kt_lag1       01       10     1000  10000000      MG       3101   
+
+   mun_expl  importance mês_target mun_target ncm_target anos_expl marca  
+55  3106200    0.000679         06    4115200   31054000         8   dif  
 
 
 
