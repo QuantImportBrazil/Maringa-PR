@@ -22,13 +22,13 @@ Fator de Influência em Destaque nos últimos 8 anos:
 Previsão Influenciada:
 - Município: Maringá
 - Produto (NCM): Ureia, mesmo em solução aquosa, com teor de nitrogênio (azoto) superior a 45 %, em peso, calculado sobre o produto anidro no estado seco-31021010 
-- Mês previsto: 09
+- Mês: 09
 
 
 Fator Influenciador: Comércio Exterior
-- Produto Sementes e frutos oleaginosos; grãos, sementes e frutos diversos; plantas industriais ou medicinais; palhas e forragens (12)
-- UF RS
-- Unidade sm_diff
+- Produto: Sementes e frutos oleaginosos; grãos, sementes e frutos diversos; plantas industriais ou medicinais; palhas e forragens (12)
+- UF: RS
+- Unidade: sm_diff
 \n
 
 
@@ -41,13 +41,13 @@ Fator de Influência em Destaque nos últimos 8 anos:
 Previsão Influenciada:
 - Município: Maringá
 - Produto (NCM): Outros cloretos de potássio-31042090 
-- Mês previsto: 08
+- Mês: 08
 
 
 Fator Influenciador: Comércio Exterior
-- Produto Adubos (fertilizantes) (31)
-- UF RS
-- Unidade price_mun
+- Produto: Adubos (fertilizantes) (31)
+- UF: RS
+- Unidade: price_mun
 \n
 
 
@@ -60,13 +60,13 @@ Fator de Influência em Destaque nos últimos 8 anos:
 Previsão Influenciada:
 - Município: Maringá
 - Produto (NCM): Diidrogeno-ortofosfato de amônio (fosfato monoamônico ou monoamoniacal), mesmo misturado com hidrogeno-ortofosfato de diamônio (fosfato diamônico ou diamoniacal)-31054000 
-- Mês previsto: 12
+- Mês: 12
 
 
 Fator Influenciador: Comércio Exterior
-- Produto Sementes e frutos oleaginosos; grãos, sementes e frutos diversos; plantas industriais ou medicinais; palhas e forragens (12)
-- UF PR
-- Unidade kt_lag12
+- Produto: Sementes e frutos oleaginosos; grãos, sementes e frutos diversos; plantas industriais ou medicinais; palhas e forragens (12)
+- UF: PR
+- Unidade: kt_lag12
 \n
 
 
