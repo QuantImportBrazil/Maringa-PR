@@ -6,9 +6,9 @@
 
 # Previsão de Importação - Maringá-PR
 
-> **Emissão:** 06-2025
+> **Emissão:** 07-2025
 > Para fins de comparação, também apresentamos a seguir previsões e valores reais de períodos anteriores ao atual.
-> As previsões foram geradas com base em dados limitados até o mês 6.
+> As previsões foram geradas com base em dados limitados até o mês 7.
 
 ---
 
@@ -17,16 +17,17 @@
 
 ![Gráfico de Previsão](31021010.png)
 Fator de Influência em Destaque:
+Previsões emitidas no mês 8.
 Previsão Influenciada:
 - Município: Maringá
 - Produto (NCM): Ureia, mesmo em solução aquosa, com teor de nitrogênio (azoto) superior a 45 %, em peso, calculado sobre o produto anidro no estado seco-31021010 
-- Mês previsto: 09
+- Mês previsto: 07
 
 
 Fator Influenciador: Comex
-- Município: Porto Alegre
-- Grupo de Produto (SH2): Sementes e frutos oleaginosos; grãos, sementes e frutos diversos; plantas industriais ou medicinais; palhas e forragens-12 
-- Mês previsto: 09
+- Unidade Federativa: SP
+- Grupo de Produto (SH2): Adubos (fertilizantes)-31 
+- Mês: 10
 - Unidade: sm_diff
 
 
@@ -37,37 +38,15 @@ Fator Influenciador: Comex
 
 ![Gráfico de Previsão](31042090.png)
 Fator de Influência em Destaque:
+Previsões emitidas no mês 8.
 Previsão Influenciada:
 - Município: Maringá
 - Produto (NCM): Outros cloretos de potássio-31042090 
-- Mês previsto: 08
+- Mês previsto: 04
 
 
-Fator Influenciador: Comex
-- Município: Porto Alegre
-- Grupo de Produto (SH2): Adubos (fertilizantes)-31 
-- Mês previsto: 08
-- Unidade: price_mun
-
-
-
-
-
-
-
-![Gráfico de Previsão](31054000.png)
-Fator de Influência em Destaque:
-Previsão Influenciada:
-- Município: Maringá
-- Produto (NCM): Diidrogeno-ortofosfato de amônio (fosfato monoamônico ou monoamoniacal), mesmo misturado com hidrogeno-ortofosfato de diamônio (fosfato diamônico ou diamoniacal)-31054000 
-- Mês previsto: 12
-
-
-Fator Influenciador: Comex
-- Município: Londrina
-- Grupo de Produto (SH2): Sementes e frutos oleaginosos; grãos, sementes e frutos diversos; plantas industriais ou medicinais; palhas e forragens-12 
-- Mês previsto: 12
-- Unidade: kt_lag12
+Fator Influenciador: O tempo. Elevada correlação com o tempo ou tendência. 
+- Unidade: date
 
 
 
