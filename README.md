@@ -15,38 +15,20 @@
 **[Home](https://quantimportbrazil.github.io/Sobre/)** | **[Selecionar Estado (UF)](https://quantimportbrazil.github.io/Unidades_Federativas/)**
 
 
-![Gráfico de Previsão](31021010.png)
-Fator de Influência em Destaque:
-Previsões emitidas no mês 8.
-Previsão Influenciada:
-- Município: Maringá
-- Produto (NCM): Ureia, mesmo em solução aquosa, com teor de nitrogênio (azoto) superior a 45 %, em peso, calculado sobre o produto anidro no estado seco-31021010 
-- Mês previsto: 07
-
-
-Fator Influenciador: Comex
-- Unidade Federativa: SP
-- Grupo de Produto (SH2): Adubos (fertilizantes)-31 
-- Mês: 10
-- Unidade: sm_diff
-
-
-
-
-
-
-
 ![Gráfico de Previsão](31042090.png)
 Fator de Influência em Destaque:
 Previsões emitidas no mês 8.
 Previsão Influenciada:
 - Município: Maringá
 - Produto (NCM): Outros cloretos de potássio-31042090 
-- Mês previsto: 04
+- Mês previsto: 01
 
 
-Fator Influenciador: O tempo. Elevada correlação com o tempo ou tendência. 
-- Unidade: date
+Fator Influenciador: Comex
+- Unidade Federativa: PR
+- Grupo de Produto (SH2): Adubos (fertilizantes)-31 
+- Mês: 7
+- Unidade: sm
 
 
 
